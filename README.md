@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 [![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAzizbek&show_icons=true&theme=dracula)](https://github.com/Bazizbek/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAzizbek&layout=compact)](https://github.com/BAzizbek/github-readme-stats)
+
+
