@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAzizbek&show_icons=true&theme=dracula)](https://github.com/Bazizbek/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAzizbek&hide=handlebars&theme=dracula)](https://github.com/BAzizbek/github-readme-stats)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BAzizbek&repo=Sudoke)](https://github.com/BAzizbek/github-readme-stats)
